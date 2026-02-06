@@ -1,0 +1,88 @@
+{
+  "systems": [
+    {
+      "system": "auth-api",
+      "tier": "Tier0",
+      "owner": "Alice",
+      "language": "Go",
+      "repo": "auth-api"
+    },
+    {
+      "system": "billing-svc",
+      "tier": "Tier0",
+      "owner": "Bob",
+      "language": "Java",
+      "repo": "billing-svc"
+    },
+    {
+      "system": "search-core",
+      "tier": "Tier1",
+      "owner": "Alice",
+      "language": "Python",
+      "repo": "search-core"
+    },
+    {
+      "system": "notifications",
+      "tier": "Tier1",
+      "owner": "Carol",
+      "language": "Node",
+      "repo": "notifications"
+    },
+    {
+      "system": "analytics",
+      "tier": "Tier2",
+      "owner": "Dave",
+      "language": "Python",
+      "repo": "analytics"
+    },
+    {
+      "system": "reports",
+      "tier": "Tier2",
+      "owner": "Dave",
+      "language": "Java",
+      "repo": "reports"
+    },
+    {
+      "system": "edge-gateway",
+      "tier": "Tier0",
+      "owner": "Carol",
+      "language": "Go",
+      "repo": "edge-gateway"
+    },
+    {
+      "system": "inventory",
+      "tier": "Tier1",
+      "owner": "Bob",
+      "language": "Java",
+      "repo": "inventory"
+    },
+    {
+      "system": "pricing",
+      "tier": "Tier1",
+      "owner": "Bob",
+      "language": "Go",
+      "repo": "pricing"
+    },
+    {
+      "system": "recommendations",
+      "tier": "Tier2",
+      "owner": "Alice",
+      "language": "Python",
+      "repo": "recommendations"
+    },
+    {
+      "system": "media",
+      "tier": "Tier2",
+      "owner": "Carol",
+      "language": "Node",
+      "repo": "media"
+    },
+    {
+      "system": "audit-log",
+      "tier": "Tier1",
+      "owner": "Dave",
+      "language": "Go",
+      "repo": "audit-log"
+    }
+  ]
+}
