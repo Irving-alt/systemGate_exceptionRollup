@@ -1,0 +1,27 @@
+RequestID,System,Severity,SubmittedAt,DueDate,Status,Title
+EX-1001,auth-api,S2,2026-01-28,2026-02-06,OPEN,Rate-limit exception pending
+EX-1002,auth-api,S3,2026-01-10,2026-01-25,CLOSED,Old low-risk waived
+EX-1003,billing-svc,S4,2026-01-20,2026-02-01,CLOSED,Minor legacy lib
+EX-1004,search-core,S1,2026-01-10,2026-01-20,OPEN,Critical CVE mitigation in progress
+EX-1005,search-core,S2,2026-01-18,2026-02-01,OPEN,High-risk dependency upgrade
+EX-1006,notifications,S2,2026-01-25,2026-02-10,OPEN,TLS pinning rollout
+EX-1007,notifications,S3,2026-01-30,2026-02-15,OPEN,Telemetry library review
+EX-1008,analytics,S1,2026-02-01,2026-02-20,OPEN,Kernel patch window
+EX-1009,analytics,S4,2026-01-15,2026-01-30,OPEN,Minor tooling
+EX-1010,reports,S2,2025-12-10,2026-01-05,CLOSED,Legacy framework
+EX-1011,edge-gateway,S3,2026-01-02,2026-01-15,OPEN,Edge plugin approval
+EX-1012,inventory,S2,2025-12-20,2026-01-05,OPEN,Critical library backlog
+EX-1013,inventory,S3,2026-01-15,2026-02-05,OPEN,Parser update needed
+EX-1014,pricing,S2,2026-01-05,2026-01-20,OPEN,Cipher suite migration
+EX-1015,pricing,S2,2026-01-29,2026-02-12,OPEN,Config hardening
+EX-1016,recommendations,S3,2026-01-01,2026-01-25,OPEN,Model card review
+EX-1017,recommendations,S4,2026-01-10,2026-02-01,OPEN,Optional dependency
+EX-1018,media,S4,2026-01-18,2026-02-02,OPEN,Image codec audit
+EX-1019,audit-log,S2,2026-01-15,2026-02-10,CLOSED,Auth flow
+EX-1020,audit-log,S3,2026-01-20,2026-02-03,OPEN,Log retention tuning
+EX-1021,billing-svc,S2,2026-01-25,2026-02-05,OPEN,PCI patch scheduling
+EX-1022,billing-svc,S3,2026-01-01,2026-01-20,OPEN,SDK update
+EX-1023,media,S2,2025-12-28,2026-01-20,OPEN,Codec critical path
+EX-1024,edge-gateway,S2,2026-01-25,2026-02-01,OPEN,Ingress rewrite
+EX-1025,reports,S4,2026-02-01,2026-02-04,OPEN,Minor alerting tweak
+EX-1026,notifications,S1,2026-01-29,2026-02-02,OPEN,Key rotation urgent
